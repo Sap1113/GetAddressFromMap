@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetAddressFromMap</string>
+    <string name="google_maps_key">AIzaSyCTAlWiGuruaGBShD0vROAx7c47qbpCNII</string>
+</resources>
